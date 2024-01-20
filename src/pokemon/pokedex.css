@@ -1,0 +1,33 @@
+.image-gallery{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.buttons{
+
+display: flex;
+margin-top: 5px;
+gap: 3px;
+height: 80px;
+
+
+}
+.btns{
+    width: 90px;
+    height: 60px;
+    margin: 0 auto;
+    font-weight: 200;
+
+
+}
+
+#heading{
+    margin: 0 auto;
+}
+.head-wrapper{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
